@@ -1,0 +1,1 @@
+ // total = (15 * hours/24) + (0.5 * (hours - (24 * hours/24)))
